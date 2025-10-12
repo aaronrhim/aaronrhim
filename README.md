@@ -1,6 +1,3 @@
-# My github profile! :)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
 <!-- ![profile_gif_mario](https://github.com/user-attachments/assets/5a30f1e1-f334-4d52-9dc1-f6dab85a2b1b) -->
 
 <h1 align="center"> Hi, I'm Aaron Rhim 😁</h1>
@@ -55,6 +52,8 @@
 - ✉️ aaronrhim@gmail.com
 - ![Linkedin](https://i.sstatic.net/gVE0j.png)  &nbsp; [LinkedIn](https://www.linkedin.com/in/aaronrhim)
 
+## ⚡ My stats lol
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **chieaid24/chieaid24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
