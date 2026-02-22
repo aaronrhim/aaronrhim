@@ -33,6 +33,12 @@
   <h3 align="center">📚 Tools & Platforms</h3>
 
   <p align="center"> 
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2" />
+  <img src="https://img.shields.io/badge/RViz2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="RViz2" />
+  <img src="https://img.shields.io/badge/MuJoCo-212121?style=for-the-badge&logoColor=white" alt="MuJoCo" />
+  <img src="https://img.shields.io/badge/robosuite-4A90E2?style=for-the-badge&logoColor=white" alt="robosuite" />
+  <img src="https://img.shields.io/badge/moteus-FFD700?style=for-the-badge&logoColor=black" alt="moteus" />
+  <img src="https://img.shields.io/badge/MoveIt2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="MoveIt2" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
