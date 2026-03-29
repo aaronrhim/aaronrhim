@@ -59,7 +59,7 @@
 - ![Linkedin](https://i.sstatic.net/gVE0j.png)  &nbsp; [LinkedIn](https://www.linkedin.com/in/aaronrhim)
 
 ## ⚡ My stats lol
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=aaronrhim)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **chieaid24/chieaid24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
