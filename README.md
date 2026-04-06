@@ -1,6 +1,6 @@
 <!-- ![profile_gif_mario](https://github.com/user-attachments/assets/5a30f1e1-f334-4d52-9dc1-f6dab85a2b1b) -->
 
-<h1 align="center"> Hi, I'm Aaron Rhim 😁</h1>
+<h1 align="center"> Hi, I'm Aaron Rhim 😁</h1> 
 
 <b> I'm a Computer Science student at UBC interested in integrating AI in Software Development and Robotics Engineering. </b>
 
